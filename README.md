@@ -1,5 +1,5 @@
 # BOSS Project Repository
-Materials, code, datasets, etc., for the GRaSP project
+Materials, code, datasets, etc., for the BOSS project
 
 The contents of this repository are for this paper:
 
